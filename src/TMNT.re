@@ -1,6 +1,8 @@
 /* TODO 1: Create binding for Donatello.js */
 /* TODO 2: Create binding for Leonardo.js */
 /* TODO 3: Use MichelangeloRe.re in Michelangelo.js and create binding for Michelangelo.js */
+/* TODO 4: 4th turtle something, more types? */
+/* TODO 5: Create bindings for react-confetti and use it 🎉 */
 
 let leonardoSuperPowers = ["Lazy", "Handsome"];
 
