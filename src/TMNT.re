@@ -9,9 +9,9 @@ let component = ReasonReact.statelessComponent(__MODULE__);
 let make = _children => {
   ...component,
   render: _self =>
-    <div
+    <div>
+       <h1> (ReasonReact.string("Cowabunga!!!")) </h1> </div>,
       /* TODO 1: <Donatello /> */
       /* TODO 2: <Leonardo superPowers={leonardoSuperPowers} /> */
       /* TODO 3: <Michelangelo /> */
-    />,
 };

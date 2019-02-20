@@ -17,7 +17,7 @@ function make() {
           /* willUpdate */component[/* willUpdate */7],
           /* shouldUpdate */component[/* shouldUpdate */8],
           /* render */(function () {
-              return React.createElement("div", undefined, "Hello! I'm Michelangelo I love pizza" + "🍕🍕🍕");
+              return React.createElement("div", undefined, "Hello! I'm Michelangelo I love pizza" + "🍕🍕🍕🍕");
             }),
           /* initialState */component[/* initialState */10],
           /* retainedProps */component[/* retainedProps */11],

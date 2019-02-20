@@ -5,7 +5,7 @@ let make = _children => {
     <div>
       (
         ReasonReact.string(
-          "Hello! I'm Michelangelo I love pizza" ++ {j|🍕🍕🍕|j},
+          "Hello! I'm Michelangelo I love pizza" ++ {j|🍕🍕🍕🍕|j},
         )
       )
     </div>,
