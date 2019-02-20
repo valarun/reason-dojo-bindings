@@ -3,7 +3,7 @@
 import * as React from "react";
 import * as ReasonReact from "reason-react/src/ReasonReact.js";
 
-var component = ReasonReact.statelessComponent("YoloJs-Dojo");
+var component = ReasonReact.statelessComponent("TMNT-Dojo");
 
 function make() {
   return /* record */[
@@ -17,7 +17,7 @@ function make() {
           /* willUpdate */component[/* willUpdate */7],
           /* shouldUpdate */component[/* shouldUpdate */8],
           /* render */(function () {
-              return React.createElement("div", undefined, React.createElement("h2", undefined, "yolo im a reason component bish"));
+              return React.createElement("div", undefined);
             }),
           /* initialState */component[/* initialState */10],
           /* retainedProps */component[/* retainedProps */11],
@@ -27,7 +27,16 @@ function make() {
         ];
 }
 
+var leonardoSuperPowers = /* :: */[
+  "Lazy",
+  /* :: */[
+    "Handsome",
+    /* [] */0
+  ]
+];
+
 export {
+  leonardoSuperPowers ,
   component ,
   make ,
   
